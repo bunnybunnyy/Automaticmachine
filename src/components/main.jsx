@@ -121,7 +121,7 @@ const Main = () => {
 </div>
       <div id="about" className="about">
 <h1>Who We Are</h1>
-        <h3>One of the Top maintenance & Repair Company in Islamabad</h3>
+        <h3>One of the Top maintenance & Repair Company in Rawalpindi</h3>
 <p>Since 2010,Friends Traders has been offering high quality and affordable repair and maintenance solutions to homeowners and businesses in Islamabad. We have been in business for more than a decade and we have built up a good reputation for  providing professional, efficient and customer focused services. The quality which sets us apart from other islamabad local services providers is that we are highly skilled technicians and committed to providing you the high caliber services whether it’s for routine maintenance or urgent repairs. From AC services, plumbing, electrical, HVAC or general home improvements,  we are here to meet your needs with expertise.</p>
         <div className="img-box">
           <img src="https://media.istockphoto.com/id/1309386943/photo/worker-repairing-washing-machine-in-laundry-room.jpg?s=612x612&w=0&k=20&c=Geo6u0Bo_JMcipJBTHcDcB-ogo5bEcnz7HXv8WCQsog=" alt="Hero Background" />
