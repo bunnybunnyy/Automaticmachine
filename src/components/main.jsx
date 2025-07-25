@@ -95,14 +95,16 @@ const Main = () => {
     <>
       <Helmet>
         <title>Automatic Washing Machine Repair | Friends Traders</title>
-        <meta name="description" content="Expert automatic washing machine repair services in Pakistan. Fast, reliable, and affordable. Serving Islamabad, Rawalpindi, Lahore, Karachi, Peshawar, and Quetta." />
         <meta name="keywords" content="automatic washing machine repair, appliance repair, washer service, Pakistan, Friends Traders" />
         <meta property="og:title" content="Automatic Washing Machine Repair | Friends Traders" />
         <meta property="og:description" content="Expert automatic washing machine repair services for all major brands. Fast, reliable, and affordable." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://friendstraders.netlify.app/" />
         <meta property="og:image" content="/logo192.png" />
-        <link rel="canonical" href="https://friendstraders.netlify.app/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Automatic Washing Machine Repair | Friends Traders" />
+        <meta name="twitter:description" content="Expert automatic washing machine repair services in Pakistan. Fast, reliable, and affordable." />
+        <meta name="twitter:image" content="/logo192.png" />
       </Helmet>
 <nav>
         <div className="nav-header">
