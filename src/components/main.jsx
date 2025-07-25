@@ -1,5 +1,6 @@
 import React, { useRef } from 'react';
 import './main.css';
+import { Helmet } from 'react-helmet';
 
 const Main = () => {
   const navLinksRef = useRef(null);
@@ -92,6 +93,17 @@ const Main = () => {
 
   return (
     <>
+      <Helmet>
+        <title>Automatic Washing Machine Repair | Friends Traders</title>
+        <meta name="description" content="Expert automatic washing machine repair services in Pakistan. Fast, reliable, and affordable. Serving Islamabad, Rawalpindi, Lahore, Karachi, Peshawar, and Quetta." />
+        <meta name="keywords" content="automatic washing machine repair, appliance repair, washer service, Pakistan, Friends Traders" />
+        <meta property="og:title" content="Automatic Washing Machine Repair | Friends Traders" />
+        <meta property="og:description" content="Expert automatic washing machine repair services for all major brands. Fast, reliable, and affordable." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://friendstraders.netlify.app/" />
+        <meta property="og:image" content="/logo192.png" />
+        <link rel="canonical" href="https://friendstraders.netlify.app/" />
+      </Helmet>
 <nav>
         <div className="nav-header">
           <img src="https://st2.depositphotos.com/4397757/10561/v/450/depositphotos_105612920-stock-illustration-washing-machines-repair-service-logo.jpg" alt="Logo" />
@@ -119,6 +131,15 @@ const Main = () => {
           <button onClick={() => window.location.href='#contact'}>Get Free Estimate</button>
 </div>
 </div>
+
+{/* SEO Keyword Section Start */}
+<section className="seo-keyword-section" style={{padding: '2rem 1rem', background: '#f8f8f8', margin: '2rem 0', borderRadius: '8px'}}>
+  <h1 style={{fontSize: '2rem', marginBottom: '1rem'}}>Automatic Washing Machine Repair Services in Pakistan</h1>
+  <p style={{fontSize: '1.1rem', maxWidth: '700px', margin: '0 auto'}}>
+    Friends Traders specializes in <strong>automatic washing machine repair</strong> for all major brands and models. Whether your washing machine is not spinning, leaking, making noise, or simply not working, our expert technicians provide fast, reliable, and affordable repair services. We proudly serve Islamabad, Rawalpindi, Lahore, Karachi, Peshawar, and Quetta. Book your <strong>automatic washing machine repair</strong> today and experience hassle-free service from trusted professionals.
+  </p>
+</section>
+{/* SEO Keyword Section End */}
       <div id="about" className="about">
 <h1>Who We Are</h1>
         <h3>One of the Top maintenance & Repair Company in Rawalpindi</h3>
