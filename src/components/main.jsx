@@ -122,10 +122,10 @@ const Main = () => {
 </nav>
       <div id="home" className="hero">
         <div className="img-box">
-          <img src="https://nadeemacservice.pk/wp-content/uploads/2023/01/automatic-machine-2.jpg" alt="Hero Background" />
+          <img src="https://nadeemacservice.pk/wp-content/uploads/2023/01/automatic-machine-2.jpg" alt="Automatic washing machine repair service in Pakistan - Friends Traders" />
         </div>
         <div className="content">
-<h2>Best Automatic Washing Machine Repair</h2>
+<h1>Best Automatic Washing Machine Repair</h1>
 <p>Expert residential and commercial repair services with quality and 100% satisfaction</p>
           <button onClick={() => window.location.href='tel:+923317897503'}>Call Us</button>
           <button onClick={() => window.location.href='#contact'}>Get Free Estimate</button>
@@ -134,63 +134,81 @@ const Main = () => {
 
 {/* SEO Keyword Section Start */}
 <section className="seo-keyword-section" style={{padding: '2rem 1rem', background: '#f8f8f8', margin: '2rem 0', borderRadius: '8px'}}>
-  <h1 style={{fontSize: '2rem', marginBottom: '1rem'}}>Automatic Washing Machine Repair Services in Pakistan</h1>
+  <h2 style={{fontSize: '2rem', marginBottom: '1rem'}}>Automatic Washing Machine Repair Services in Pakistan</h2>
   <p style={{fontSize: '1.1rem', maxWidth: '700px', margin: '0 auto'}}>
     Friends Traders specializes in <strong>automatic washing machine repair</strong> for all major brands and models. Whether your washing machine is not spinning, leaking, making noise, or simply not working, our expert technicians provide fast, reliable, and affordable repair services. We proudly serve Islamabad, Rawalpindi, Lahore, Karachi, Peshawar, and Quetta. Book your <strong>automatic washing machine repair</strong> today and experience hassle-free service from trusted professionals.
+    <br />
+    <a href="#contact">Book a repair now</a> or <a href="https://www.consumerreports.org/appliances/laundry-washing-machines/how-to-maintain-your-washing-machine-a1108495292/" target="_blank" rel="noopener noreferrer">learn more about washing machine care</a>.
   </p>
 </section>
 {/* SEO Keyword Section End */}
       <div id="about" className="about">
-<h1>Who We Are</h1>
+<h2>Who We Are</h2>
         <h3>One of the Top maintenance & Repair Company in Rawalpindi</h3>
-<p>Since 2010,Friends Traders has been offering high quality and affordable repair and maintenance solutions to homeowners and businesses in Islamabad. We have been in business for more than a decade and we have built up a good reputation for  providing professional, efficient and customer focused services. The quality which sets us apart from other islamabad local services providers is that we are highly skilled technicians and committed to providing you the high caliber services whether it’s for routine maintenance or urgent repairs. From AC services, plumbing, electrical, HVAC or general home improvements,  we are here to meet your needs with expertise.</p>
+<p>Since 2010, Friends Traders has been offering high quality and affordable repair and maintenance solutions to homeowners and businesses in Islamabad. We have been in business for more than a decade and we have built up a good reputation for providing professional, efficient and customer focused services. The quality which sets us apart from other islamabad local services providers is that we are highly skilled technicians and committed to providing you the high caliber services whether it’s for routine maintenance or urgent repairs. From AC services, plumbing, electrical, HVAC or general home improvements, we are here to meet your needs with expertise. <a href="#contact">Contact us</a> today!</p>
         <div className="img-box">
-          <img src="https://media.istockphoto.com/id/1309386943/photo/worker-repairing-washing-machine-in-laundry-room.jpg?s=612x612&w=0&k=20&c=Geo6u0Bo_JMcipJBTHcDcB-ogo5bEcnz7HXv8WCQsog=" alt="Hero Background" />
+          <img src="https://media.istockphoto.com/id/1309386943/photo/worker-repairing-washing-machine-in-laundry-room.jpg?s=612x612&w=0&k=20&c=Geo6u0Bo_JMcipJBTHcDcB-ogo5bEcnz7HXv8WCQsog=" alt="Technician repairing washing machine in laundry room - Friends Traders" />
         </div>
 </div>
 <section>
-    <h1>
-        We are Reapairing All Type Of Automatic Machine
-    </h1>
+    <h2>
+        We are Repairing All Types Of Automatic Machines
+    </h2>
       <div id="repair" className="gallery">
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://img.freepik.com/premium-photo/serviceman-repairs-broken-washing-machine-near-beige-wall_255755-4906.jpg" alt="Repair 1" />
+            <img src="https://img.freepik.com/premium-photo/serviceman-repairs-broken-washing-machine-near-beige-wall_255755-4906.jpg" alt="Serviceman repairing broken washing machine - Friends Traders" />
           </div>
           <div className="img-caption">Diagnosing washing machine motor issues</div>
   </div>
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://t3.ftcdn.net/jpg/04/23/35/16/360_F_423351639_qcIVh5khAZrpTdIHakM5n8G6wtgFIA7y.jpg" alt="Repair 2" />
+            <img src="https://t3.ftcdn.net/jpg/04/23/35/16/360_F_423351639_qcIVh5khAZrpTdIHakM5n8G6wtgFIA7y.jpg" alt="Replacing faulty water inlet valves - Friends Traders" />
           </div>
           <div className="img-caption">Replacing faulty water inlet valves</div>
   </div>
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://brightfixing.com/wp-content/uploads/2025/01/front-load-washing-machine-repair-in-dubai.png" alt="Repair 3" />
+            <img src="https://brightfixing.com/wp-content/uploads/2025/01/front-load-washing-machine-repair-in-dubai.png" alt="Front-load washing machine drum repair - Friends Traders" />
           </div>
           <div className="img-caption">Front-load washing machine drum repair</div>
   </div>
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://gulfcoastappliances.com/wp-content/uploads/2023/12/Washing-Machine-Repair-in-Clearwater-FL.jpeg" alt="Repair 4" />
+            <img src="https://gulfcoastappliances.com/wp-content/uploads/2023/12/Washing-Machine-Repair-in-Clearwater-FL.jpeg" alt="Expert cleaning and maintenance service - Friends Traders" />
           </div>
           <div className="img-caption">Expert cleaning and maintenance service</div>
   </div>
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://fixitt.co.za/wp-content/uploads/2020/04/washing-machine-repair.jpg" alt="Repair 5" />
+            <img src="https://fixitt.co.za/wp-content/uploads/2020/04/washing-machine-repair.jpg" alt="Fixing drainage and water pump problems - Friends Traders" />
           </div>
           <div className="img-caption">Fixing drainage and water pump problems</div>
   </div>
         <div className="gallery-item">
           <div className="img-box">
-            <img src="https://media.istockphoto.com/id/2140183630/photo/repairman-using-a-screwdriver-disassembles-a-washing-machine-for-repair.jpg?s=612x612&w=0&k=20&c=vpLsKVsKm8LEUIBknDNzyrB8jQQHVL2Ib8oG72ymazM=" alt="Repair 6" />
+            <img src="https://media.istockphoto.com/id/2140183630/photo/repairman-using-a-screwdriver-disassembles-a-washing-machine-for-repair.jpg?s=612x612&w=0&k=20&c=vpLsKVsKm8LEUIBknDNzyrB8jQQHVL2Ib8oG72ymazM=" alt="Professional disassembly for complex repairs - Friends Traders" />
           </div>
           <div className="img-caption">Professional disassembly for complex repairs</div>
   </div>
 </div>
 </section>
+
+{/* FAQ Section Start */}
+<section className="faq-section" style={{padding: '2rem 1rem', background: '#eef6fa', margin: '2rem 0', borderRadius: '8px'}}>
+  <h2>Frequently Asked Questions</h2>
+  <div>
+    <strong>Q: What brands of washing machines do you repair?</strong>
+    <p>A: We repair all major brands including Samsung, LG, Haier, Dawlance, Whirlpool, and more.</p>
+    <strong>Q: Do you offer same-day repair service?</strong>
+    <p>A: Yes, we offer same-day and emergency repair services in most areas.</p>
+    <strong>Q: How can I book a repair?</strong>
+    <p>A: You can <a href="#contact">book a repair online</a> or call us at <a href="tel:+923317897503">+92 331 7897503</a>.</p>
+    <strong>Q: Do you provide a warranty on repairs?</strong>
+    <p>A: Yes, we provide a warranty on all our repair services for your peace of mind.</p>
+  </div>
+</section>
+{/* FAQ Section End */}
       <div id="contact" className="contact-section">
 <h3>Contact Us</h3>
         <form id="repairForm" onSubmit={handleSubmit} autoComplete="off">
